@@ -24,7 +24,7 @@ fi
 # Створення файлу config.yaml
 cat > config.yaml <<EOL
 minerName: "$MINER_NAME"
-apiKey: "nnock0000-16f4-c59e-b12c-a0359b44eddd"
+apiKey: "nock0000-16f4-c59e-b12c-a0359b44eddd"
 language: en
 line: cn
 extraParams:
